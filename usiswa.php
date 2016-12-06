@@ -1,3 +1,6 @@
+//komenyfljarsedkcvhfbadshbckubdrfaevibyhdksvgfsubv
+
+
 <?php
 require_once('lib/DBclass.php');
 require_once('lib/m_siswa.php');
