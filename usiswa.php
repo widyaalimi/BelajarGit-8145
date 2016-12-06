@@ -1,5 +1,5 @@
-//komenyfljarsedkcvhfbadshbckubdrfaevibyhdksvgfsubv
-
+//komenyfljarsedkcvhffcxbbadshbckubdrfaevibyhdksvgfsubv
+/*dgfdgdgrdg*/
 
 <?php
 require_once('lib/DBclass.php');
